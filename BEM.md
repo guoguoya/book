@@ -443,3 +443,11 @@ _ 表示hack类
  -          | block           | blk
  - normal   | information     | info
  -          |                 |
+ - structure|                 |
+ -          | body            | bd
+ -          | foot            | ft
+ -          | head            | hd
+ -          | left            | l
+ -          | right           | r
+ -          | bottom          | b
+ -          | top             | t
