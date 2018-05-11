@@ -242,7 +242,7 @@ class类名的四种基本格式: B, B\_\_E,  B\-\-M, B\_\_E\-\-M。
 <a name="pre-modified"></a>
 ###用前缀修饰class
 
-s- (section) 表示节（用于业务上的block）
+s- (section) 表示节（用于业务上的block)//考虑中3
 
 ```css
 .s-teacher-introduce {
@@ -439,7 +439,7 @@ _ 表示hack类
  -          | left            | l
  -          | center          | ctr
  -          | table           | tb
- -          | percentage      | xofy(ex x = 1 ; y = 1)
+ -          | percentage      | xofy(eg. x = 1 ; y = 1)
  -          | block           | blk
  - normal   | information     | info
  -          |                 |
